@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![image](https://github.com/harttle/codemirror-react-demo/assets/4427974/6aa38148-b228-4f3f-bd20-52856d5ff4f5)
+<img src="https://github.com/harttle/codemirror-react-demo/assets/4427974/6aa38148-b228-4f3f-bd20-52856d5ff4f5" width="596px" height="555px">
 
 ## Available Scripts
 
